@@ -76,4 +76,5 @@ public class MyWebView extends AppCompatActivity {
 ### 结果截图：
 ![image](https://github.com/Magicpanda-orz/IntentWebView/blob/master/img/lab5_1.PNG)  
 ![image](https://github.com/Magicpanda-orz/IntentWebView/blob/master/img/lab5_2.PNG) 
+![image](https://github.com/Magicpanda-orz/IntentWebView/blob/master/img/lab5_3.PNG) 
 ##  
